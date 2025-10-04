@@ -136,8 +136,7 @@ For a detailed interpretation and discussion of the empirical results, refer dir
 The following maps illustrate the **geographical distribution of unique M&A targets** across Italy and the Lombardy region.  
 The left figure shows the **number of unique targets by region**, while the right one focuses on **Lombardy’s provinces**, highlighting Milan as the main hub for Family Office and Private Equity activity.
 
-![Geographical Distribution of Targets](assets/Target Location.png)
-
+![Geographical Distribution of Targets](assets/Target_Location.png)
 
 ---
 
