@@ -77,7 +77,7 @@ The empirical analysis relies on a multi-step dataset construction process combi
   - **Size and Valuation:** Revenues, Enterprise Value, Market Capitalization.  
   - **Capital Structure:** Gearing ratio, Operating Cash Flow, valuation multiples (EV/EBITDA, Market-to-Book).  
 
-- **Investor Dataset**  
+- **Acquiror Dataset**  
   Each acquiring entity was classified according to ownership type (Family Office, Private Equity, Corporate, etc.).  
   This classification was validated through multiple reliable sources (company websites, financial databases, and specialized reports).  
 
