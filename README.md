@@ -128,6 +128,16 @@ Evidence confirmed that **Family Offices predominantly acquire minority stakes**
 For a detailed interpretation and discussion of the empirical results, refer directly to the **Master Thesis document** included in the repository (`documents/2025_10_Sima_Tesi_01.pdf`).
  
 
+---
+
+
+## 🗺️ Sample Visualization
+
+The following maps illustrate the **geographical distribution of unique M&A targets** across Italy and the Lombardy region.  
+The left figure shows the **number of unique targets by region**, while the right one focuses on **Lombardy’s provinces**, highlighting Milan as the main hub for Family Office and Private Equity activity.
+
+![Geographical Distribution of Targets](assets/Target Location.png)
+
 
 ---
 
