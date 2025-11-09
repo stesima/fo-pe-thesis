@@ -24,7 +24,7 @@ The analysis combines *descriptive statistics, econometric modeling (Heckman cor
   2. **Exploratory Data Analysis (EDA):** Descriptive trends by investor type, ownership, and region.  
   3. **Econometric Analysis:**  
      - Heckman two-stage model to correct for self-selection bias.  
-     - Regression on post-deal performance metrics.  
+     - Robust regression on post-deal performance metrics.  
   4. **Visualization:** Geographic and ownership-pattern mapping using shapefiles.
 
 - **Outcome:**  
@@ -54,6 +54,7 @@ fo-pe-thesis/
 ├── documents/                 # Final thesis documents
 │   ├── 2025_10_Sima_Tesi_01.pdf
 │   └── 2025_10_Sima_Executive_Summary_02.pdf
+|   └── 2025_10_Sima_Presentation_03.pdf
 ├── assets/                    # Figures and supplementary reports
 │   └── EDA_Sima.pdf           # Exploratory Data Analysis (EDA) report
 ├── .gitignore
@@ -68,7 +69,7 @@ fo-pe-thesis/
 The empirical analysis relies on a multi-step dataset construction process combining deal-level, firm-level, and investor-level information:  
 
 - **Original Transaction Dataset**  
-  The starting point was the *“Family Transaction Merged”* file (1,188 observations, 2013–2022). It includes detailed information on each M&A deal, such as completion date, target ownership, acquirer and seller names, deal value, and post-deal equity share.  
+  The starting point was the *“Family Transaction Merged”* file (1,188 observations, 2013–2022). It includes information on each M&A deal, such as completion date, target ownership, acquirer and seller names, deal value, and post-deal equity share.  
 
 - **Target Dataset**  
   For each target firm, financial and structural variables were collected from *Orbis* for the years *t–1*, *t*, and *t+1* (where *t* = deal year).  
